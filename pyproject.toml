@@ -29,7 +29,7 @@ Documentation = "https://github.com/Pondowner857/comfy_Pond_Nodes_V2/wiki"
 "Bug Tracker" = "https://github.com/Pondowner857/comfy_Pond_Nodes_V2/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "pondowner857"
 DisplayName = "comfy_Pond_Nodes_V2"
 Icon = ""
 includes = [] 
